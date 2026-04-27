@@ -23,6 +23,7 @@
 
 
 ** 파이썬으로 동일하게 동작하는 어플 **
+```
 import os
 import unicodedata
 import tkinter as tk
@@ -109,3 +110,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+```
